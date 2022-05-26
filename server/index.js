@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(express.urlencoded({extended: true}));
 app.use('/', Router)
 
-mongoose.connect("mongodb://localhost:27017/Forms-Practice")
+mongoose.connect("mongodb+srv://mann:mannshah@023@wt.ivomhlh.mongodb.net/?retryWrites=true&w=majority")
 
 
 app.listen(8000, () => {
