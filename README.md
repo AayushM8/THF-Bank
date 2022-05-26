@@ -1,6 +1,5 @@
 <p>
 <h1 align = "center" > <strong>🏦THF Bank🏦 </strong> <br>
-<h3 align = "center">Team :- NHK
  <hr>
 </p>
 
@@ -31,7 +30,7 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
 ##  🛠 Prerequisites
 To install the required files run the following commands:
 ```
-git clone https://github.com/ParthShirole/THF-Bank.git.  
+git clone https://github.com/AayushM8/THF-Bank.git. 
 cd client           
 npm i
 cd ..
@@ -94,5 +93,5 @@ Transfer
 - [Alisha Kamat](https://github.com/alisha-kamat) - alishakamat8@gmail.com
 - [Aayush Mehta](https://github.com/AayushM8) - aayush2002mehta@gmail.com
 - [Mann Shah](https://github.com/sphiinxxxx)- shahmann023@gmail.com
-- [Manali Malavade](https://github.com/Manali-malavade) - Malavademanali@gmail.com
+- [Manali Malavade](https://github.com/Manali-malavade) - malavademanali@gmail.com
 - [Sanskruti Mahajan](https://github.com/sanskrutimahajan) - mahajansanskruti15@gmail.com
