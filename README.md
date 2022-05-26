@@ -79,7 +79,8 @@ Transfer
 
 
 ## 🧑‍💻Team members
-- [Parth shirole](https://github.com/ParthShirole) - parthshirole06@gmail.com
-- [Rushabh Maru](https://github.com/RushabhM03) - rushabh.maru123@gmail.com
+- [Alisha Kamat](https://github.com/alisha-kamat) - alishakamat8@gmail.com
+- [Aaysuh Mehta](https://github.com/AayushM8) - aayush2002mehta@gmail.com
 - [Mann Shah](https://github.com/sphiinxxxx)- shahmann023@gmail.com
-- [Neal Mehta](https://github.com/NealMehtaa) - mehtaneal2002@gmail.com
+- [Manali Malavasde](https://github.com/Manali-malavade) - Malavademanali@gmail.com
+- [Sanskruti Mahajan](https://github.com/sanskrutimahajan) - mahajansanskruti15@gmail.com
