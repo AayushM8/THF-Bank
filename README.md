@@ -59,24 +59,36 @@ npm i
 
 The Home page
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Home.jpeg)
+![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Home.jpeg)
 
 Register
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Register.jpg)
+![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Register.jpg)
 
 Login
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Login.jpg)
+![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Login.jpg)
 
 Profile
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Profile.jpg)
+![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/profile.jpg)
 
 Transfer
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Transfer.jpg)
+![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Transfer.jpg)
+ 
+ Transfer sent:
 
+ ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/transactionssent.jpg)
+ 
+ Transfer recieved
+ 
+ ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/transactionrecieved.jpg)
+ 
+ Successful Transaction
+ 
+ ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/successful.jpg)
+ 
 
 ## 🧑‍💻Team members
 - [Alisha Kamat](https://github.com/alisha-kamat) - alishakamat8@gmail.com
