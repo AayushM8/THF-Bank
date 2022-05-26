@@ -28,7 +28,7 @@ app.use('/', Router)
 //mongoose.connect("mongodb+srv://mann:mannshah@023@wt.ivomhlh.mongodb.net/?retryWrites=true&w=majority")
 
 
-mongoose.connect("mongodb://localhost:27017/Forms-Practice")
+mongoose.connect("mongodb+srv://aayush1:1234@cluster0.x1asw.mongodb.net/?retryWrites=true&w=majority")
 
 
 app.listen(8000, () => {

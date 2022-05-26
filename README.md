@@ -31,7 +31,7 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
 ##  🛠 Prerequisites
 To install the required files run the following commands:
 ```
-git clone https://github.com/ParthShirole/THF-Bank.git.  
+git clone https://github.com/AayushM8/THF-Bank  
 cd client           
 npm i
 cd ..

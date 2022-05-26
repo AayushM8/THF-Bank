@@ -27,6 +27,7 @@ export const register_user = async(req, res) => {
         //Send confirmation
         res.json({status: 'ok'})
     } catch (error) {
+        console.log(error);
         res.json({status: 'error', error: 'duplicate email'})
     }
 }
